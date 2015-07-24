@@ -23,7 +23,7 @@ public class TestGame extends ApplicationAdapter {
 		 pixmaptex = new Texture( pixmap );
 		pixmap.dispose();
 		initialize(textArr, pixmaptex);
-
+int a = 0;
 	}
 
 	@Override
